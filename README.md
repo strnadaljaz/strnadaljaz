@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=astrnad1&label=Profile%20views&color=0e75b6&style=flat" alt="astrnad1" />
 </p>
 
-- 🔭 I’m currently working on [DinoGame](https://github.com/astrnad1/DinoGame)
-  <!-- Add a brief description of DinoGame here -->
-
 - 📫 How to reach me: **aljaz.strnad@dijaki.sers.si**
 
 <h3 align="center">Connect with me:</h3>
