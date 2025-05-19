@@ -6,6 +6,7 @@
 </p>
 
 - 📫 How to reach me: **aljaz.strnad@dijaki.sers.si**
+- Website: https://portfolio-strnadaljazs-projects.vercel.app/
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
