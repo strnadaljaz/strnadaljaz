@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=astrnad1&label=Profile%20views&color=0e75b6&style=flat" alt="astrnad1" />
 </p>
 
-- 📫 How to reach me: **aljaz.strnad@dijaki.sers.si**
+- 📫 How to reach me: **strnadaljaz23@gmail.com**
 - Website: https://strnadaljaz.vercel.app/
 
 <h3 align="center">Connect with me:</h3>
