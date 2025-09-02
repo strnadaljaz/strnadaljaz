@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Next.js & Node.js Enthusiast | Computer Science Student from Slovenia</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=astrnad1&label=Profile%20views&color=0e75b6&style=flat" alt="astrnad1" />
+  <img src="https://komarev.com/ghpvc/?username=strnadaljaz&label=Profile%20views&color=0e75b6&style=flat" alt="strnadaljaz" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ I'm a passionate **Full Stack Software Developer** specializing in building mode
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astrnad1&show_icons=true&theme=default" alt="Aljaž's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=strnadaljaz&show_icons=true&theme=default" alt="Aljaž's GitHub stats" />
 </p>
 
 ---
