@@ -9,7 +9,7 @@
 
 ### 💻 About Me
 
-I'm a passionate **Full Stack Software Developer** specializing in building modern, scalable web applications using **Next.js**, **Node.js**, and other web technologies. I'm currently pursuing a degree in **Computer Science**, continuously exploring new tech and solving real-world problems through code.
+I'm a passionate **Full Stack Software Developer** specializing in building modern, scalable web applications using **Next.js**, **Node.js**, and other web technologies. I'm currently pursuing a degree in **Computer Science**, continuously exploring new tech and solving real-world problems through code. In my free time, I also like to create simple games in C++.
 
 - 🎓 CS Student from Slovenia
 - 🔧 Tech Stack: Next.js, Node.js, JavaScript, React, MySQL, Python & more
