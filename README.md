@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Next.js & Node.js Enthusiast | Computer Science Student from Slovenia</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=strnadaljaz&label=Profile%20views&color=0e75b6&style=flat" alt="strnadaljaz" />
+  <img src="https://komarev.com/ghpvc/?username=strnadaljaz&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
