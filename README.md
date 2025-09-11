@@ -7,10 +7,6 @@
 
 ---
 
-### 💻 About Me
-
-I'm a passionate **Full Stack Software Developer** specializing in building modern, scalable web applications using **Next.js**, **Node.js**, and other web technologies. I'm currently pursuing a degree in **Computer Science**, continuously exploring new tech and solving real-world problems through code. In my free time, I also like to create simple games in C++.
-
 - 🎓 CS Student from Slovenia
 - 🔧 Tech Stack: Next.js, Node.js, JavaScript, React, MySQL, Python & more
 - 📫 Reach me at: **strnadaljaz23@gmail.com**
@@ -51,19 +47,3 @@ I'm a passionate **Full Stack Software Developer** specializing in building mode
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strnadaljaz&show_icons=true&theme=default" alt="Aljaž's GitHub stats" />
-</p>
-
----
-
-### ⚡ Fun Fact
-
-I enjoy solving coding challenges on platforms like LeetCode and building side projects that blend creativity with functionality.
-
----
-
-_Thanks for visiting my profile! Let's build something amazing together 🚀_
