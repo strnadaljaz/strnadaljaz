@@ -10,7 +10,7 @@
 - 🎓 CS Student from Slovenia
 - 🔧 Tech Stack: Next.js, Node.js, JavaScript, React, MySQL, Python, C++ & more
 - 📫 Reach me at: **strnadaljaz23@gmail.com**
-- 🌐 Portfolio: [strnadaljaz.vercel.app](https://strnadaljaz.vercel.app/)
+- 🌐 Portfolio: [strnadaljaz.si](https://strnadaljaz.si/)
 
 ---
 
