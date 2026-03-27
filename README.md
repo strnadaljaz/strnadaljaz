@@ -1,10 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Aljaž Strnad</h1>
 <h3 align="center">Software engineer | Computer Science Student from Slovenia</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=strnadaljaz&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 - 🎓 CS Student from Slovenia
