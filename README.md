@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Aljaž Strnad</h1>
-<h3 align="center">Full Stack Developer | Next.js & Node.js Enthusiast | Computer Science Student from Slovenia</h3>
+<h3 align="center">Software engineer | Computer Science Student from Slovenia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=strnadaljaz&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -9,7 +9,7 @@
 
 - 🎓 CS Student from Slovenia
 - 🔧 Tech Stack: Next.js, Node.js, JavaScript, React, MySQL, Python, C++ & more
-- 📫 Reach me at: **strnadaljaz23@gmail.com**
+- 📫 Reach me at: **aljaz.strnad@student.um.si**
 - 🌐 Portfolio: [strnadaljaz.si](https://strnadaljaz.si/)
 
 ---
