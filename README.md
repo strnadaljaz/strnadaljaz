@@ -8,5 +8,3 @@
 - 📫 Reach me at: **aljaz.strnad@student.um.si**
 - 🌐 Portfolio: [strnadaljaz.si](https://strnadaljaz.si/)
 - Linkedin: [Aljaž Strnad](https://www.linkedin.com/in/aljaz-strnad/)
-
----
