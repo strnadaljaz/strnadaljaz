@@ -3,5 +3,5 @@
 
 ---
 
-- Tech Stack: C++, C, Python, Next.js, Node.js, JavaScript, React, MySQL & more...
+- Tech Stack: C++, C, Python, TypeScript, SQL, React, NodeJS, NextJS
 - Reach me at: **aljaz.strnad@student.um.si**
